@@ -4,6 +4,6 @@ The Idea is to train a CNN on a annotated corpus and further, it should predict 
 
 Example:
 
-Input: Germany lost a soccer game to Spain on Tuesday
+  `Input: Germany lost a soccer game to Spain on Tuesday`
 
-Output: ['B-LOC', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'O', 'O']
+`Output: ['B-LOC', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'O', 'O']`
